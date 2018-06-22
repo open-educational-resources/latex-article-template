@@ -1,0 +1,22 @@
+!tex
+!gfx
+//!gpath{figs}
+!ipath{~/pool/mrkdir/}
+//\usepackage{gensymb}
+//\pagestyle{headings}
+//\usepackage[margin=0.5cm]{geometry}
+//!placeins
+!begin
+
+!title OpenSource Latex Article 
+!author Opensource Education
+\maketitle
+
+
+!section Header 1
+!subsection SubHeader 1
+
+hello world
+
+
+
